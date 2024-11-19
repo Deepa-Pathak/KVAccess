@@ -10,3 +10,6 @@ VCPackage manager may be cloned from here https://github.com/microsoft/vcpkg#get
 $env:VCPKG_ROOT="path_to_vc_package"
 $env:PATH="$env:VCPKG_ROOT;$env:PATH"
 ```
+
+For this code to work, below steps are required:
+1. 
